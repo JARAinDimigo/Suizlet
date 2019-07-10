@@ -1,0 +1,18 @@
+.MainButton {
+    -fx-border-color: #09cf7e;
+    -fx-border-width: 6px;
+    -fx-border-radius: 50px;
+    -fx-background-color: white;
+ }
+ .only {
+     -fx-border-color: #09cf7e;
+     -fx-border-width: 3px;
+     -fx-border-radius: 50px;
+     -fx-background-color: white;
+ }
+ .load {
+      -fx-border-color: #09cf7e;
+      -fx-border-width: 3px;
+      -fx-border-radius: 10px;
+      -fx-background-color: white;
+ }
